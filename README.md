@@ -11,13 +11,13 @@ Durante a faculdade, tive contato acadêmico com várias linguagens (C, C++, Pyt
 
 ### Projetos em destaque:
 
-*   **[ClimaObserver](link-do-repositorio):** 
+*   **[ClimaObserver](https://github.com/rafaelmelom-dev/ClimaObserver):** 
     Neste projeto, configurei uma pipeline utilizando GitHub Actions. Foi a forma que encontrei de colocar a mão na massa para entender como funciona a automação de rotinas no GitHub.
 
-*   **[OBDiary](link-do-repositorio):** 
+*   **[OBDiary](https://github.com/rafaelmelom-dev/OBDiary):** 
     Meu repositório mais recente. Esse projeto é sobre um aplicativo android para registrar dados de abastecimentos e reparo veicular, com ele aprendi, com a mão na massa, a utilizar Kotlin, Jetpack Compose, Room Database e Navigation, bibliotecas utilizada no repositório.
 
-*   **[Questify](link-do-repositorio):** 
+*   **[Questify](https://github.com/rafaelmelom-dev/Questify):** 
     Este projeto foi uma migração de código entre linguagens, onde tínhamos já esse projeto escrito em Swift, utilizando a biblioteca SwiftUI, que foi migrado para funcionar com a linguagem Kotlin, utilizando o Jetpack Compose como biblioteca visual.
 
 ### Contato:
