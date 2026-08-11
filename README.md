@@ -1,15 +1,24 @@
-# 💫 About Me:
-I'm current learning about linux, and build knowledge about technology.<br>Also very interested in Data Science.<br><br>I drink neovim, and code on coffee!
+# Olá, sou o Rafael.
 
+Sou estudante de tecnologia e estou em busca do meu primeiro estágio na área de TI. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-melo-a2752a262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelmelom.dev@gmail.com) 
+Durante a faculdade, tive contato acadêmico com várias linguagens (C, C++, Python, Java, JS, Kotlin, R), mas recentemente percebi que tenho mais interesse em infraestrutura e automação. Por isso, atualmente estou direcionando meus estudos práticos para DevOps.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafaelmelom-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rafaelmelom-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmelom-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### O que estou focando no momento:
+- Entender melhor o ecossistema Linux.
+- Lógica e scripts para automação (Python / Bash).
+- Testar integrações e CI/CD na prática (GitHub Actions).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Projetos em destaque:
+
+*   **[ClimaObserver](link-do-repositorio):** 
+    Neste projeto, configurei uma pipeline utilizando GitHub Actions. Foi a forma que encontrei de colocar a mão na massa para entender como funciona a automação de rotinas no GitHub.
+
+*   **[OBDiary](link-do-repositorio):** 
+    Meu repositório mais recente. Esse projeto é sobre um aplicativo android para registrar dados de abastecimentos e reparo veicular, com ele aprendi, com a mão na massa, a utilizar Kotlin, Jetpack Compose, Room Database e Navigation, bibliotecas utilizada no repositório.
+
+*   **[Questify](link-do-repositorio):** 
+    Este projeto foi uma migração de código entre linguagens, onde tínhamos já esse projeto escrito em Swift, utilizando a biblioteca SwiftUI, que foi migrado para funcionar com a linguagem Kotlin, utilizando o Jetpack Compose como biblioteca visual.
+
+### Contato:
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafael-melo-a2752a262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRHMmKd%2FCS9iunlKM%2FzRG6Q%3D%3D) ou pelo e-mail: rafaelmelom.dev@gmail.com.
