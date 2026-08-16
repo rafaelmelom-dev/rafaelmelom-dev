@@ -5,6 +5,7 @@ Sou estudante de tecnologia e estou em busca do meu primeiro estágio na área d
 Durante a faculdade, tive contato acadêmico com várias linguagens (C, C++, Python, Java, JS, Kotlin, R), mas recentemente percebi que tenho mais interesse em infraestrutura e automação. Por isso, atualmente estou direcionando meus estudos práticos para DevOps.
 
 ### O que estou focando no momento:
+- Continuar aprendendo a projetar e pensar na resolução de problemas no sistema, como no back-end.
 - Entender melhor o ecossistema Linux.
 - Lógica e scripts para automação (Python / Bash).
 - Testar integrações e CI/CD na prática (GitHub Actions).
